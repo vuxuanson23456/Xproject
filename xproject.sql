@@ -29,11 +29,11 @@ CREATE TABLE IF NOT EXISTS `list` (
 
 -- Dumping data for table xproject.list: ~50 rows (approximately)
 INSERT INTO `list` (`id`, `name`, `address`, `salary`) VALUES
-	(1, 'Chantalle Matej', '3078 Sachtjen Parkway', 30048),
-	(2, 'hoang', '56 chua boc', 895),
+	(1, ''Auguste Plum', '5 Canary Drive', 51356),
+	(2, 'Hanna Shawley', '1144 Corscot Avenue', 58301),
 	(4, 'Xenia Marsay', '63 Troy Alley', 71699),
 	(5, 'Ree Genders', '60 Clyde Gallagher Lane', 5),
-	(6, 'Auguste Plum', '5 Canary Drive', 51356),
+	(6, 'Chantalle Matej', '3078 Sachtjen Parkway', 30048),
 	(7, 'Eba Tarquinio', '327 Mitchell Pass', 855),
 	(8, 'Guillaume Krzyzaniak', '0 Sachs Place', 5),
 	(9, 'Mag Swinglehurst', '9 Dayton Place', 7670),
@@ -77,8 +77,7 @@ INSERT INTO `list` (`id`, `name`, `address`, `salary`) VALUES
 	(47, 'Zelig Ondrousek', '3037 Meadow Ridge Road', 40),
 	(48, 'Francesca Bullan', '68209 Debs Park', 24319),
 	(50, 'Hanna Shawley', '1144 Corscot Avenue', 58301),
-	(51, 'hai', '123 tay son', 563),
-	(52, 'long', '107 chua boc', 561);
+	
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
