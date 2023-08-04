@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS `list` (
 
 -- Dumping data for table xproject.list: ~50 rows (approximately)
 INSERT INTO `list` (`id`, `name`, `address`, `salary`) VALUES
-	(1, ''Auguste Plum', '5 Canary Drive', 51356),
+	(1, 'Auguste Plum', '5 Canary Drive', 51356),
 	(2, 'Hanna Shawley', '1144 Corscot Avenue', 58301),
 	(4, 'Xenia Marsay', '63 Troy Alley', 71699),
 	(5, 'Ree Genders', '60 Clyde Gallagher Lane', 5),
